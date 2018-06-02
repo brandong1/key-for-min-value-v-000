@@ -13,3 +13,4 @@ def key_for_min_value(things)
   end
 end
 
+things
