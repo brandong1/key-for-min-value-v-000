@@ -10,6 +10,7 @@ def key_for_min_value(things)
       place_holder > value
       place_holder = value
       things = key
+    end
   end
 end
 
