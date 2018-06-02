@@ -3,6 +3,6 @@
 
 def key_for_min_value(things)
   place_holder = 10000
-  if things.em
+  if things.empty?
 end
 
