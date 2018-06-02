@@ -12,6 +12,5 @@ def key_for_min_value(things)
       things = key
     end
   end
+  things
 end
-
-things
