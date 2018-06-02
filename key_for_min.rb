@@ -7,6 +7,8 @@ def key_for_min_value(things)
     return nil 
   else
     things.each do |key, value|
+      place_holder > value
+      place_holder = value
       
   end
 end
